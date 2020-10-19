@@ -1,5 +1,5 @@
 The data used for this assignment is as follows:
-* **Global Land and Ocean-and-Land Temperatures** (`GlobalTemperatures.csv`) which contains the following data:
+* **Global Land and Ocean Temperatures** (`GlobalTemperatures.csv`) which contains the following data:
   1. `dt` = *the date which starts in 1750 for average land temperature and 1850 for max and min land temperatures and global ocean and land temperatures*
   2. `LandAverageTemperature` = *the global average land temperature in degrees celsius*
   3. `LandAverageTemperatureUncertainty` = *the 95% confidence interval around the average land temperature*
